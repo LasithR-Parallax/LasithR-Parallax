@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lasith Randima
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Laravel for Backend & React for Frontend
+- 🌱 I’m currently learning
 
 
 <!---
